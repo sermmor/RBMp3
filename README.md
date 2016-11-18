@@ -6,5 +6,5 @@ This is a Bitrate Mp3 Converter that use the recursivity between folders. You ch
 - wxPython
 - GStreamer
 
-# Screenshot
+## Screenshot
 ![Capture1](https://raw.githubusercontent.com/sermmor/RBMp3/master/Capture.png)
